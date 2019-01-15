@@ -2,7 +2,7 @@
     "name": "swiftotter/advanced-pricing-bug",
     "description": "A (miniature) module designed to fix a big Magento bug.",
     "require": {
-        "php": "~7.0.6"
+        "php": "~7.0.6|~7.1.0"
     },
     "type": "magento2-module",
     "license": [
